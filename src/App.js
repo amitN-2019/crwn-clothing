@@ -5,7 +5,7 @@ import {Switch , Route}  from 'react-router-dom';
 
 
 
-const HatsPage = ()  => (
+const HatsPage = () => (
 
 <div>
 <h1> Hats Page </h1>
