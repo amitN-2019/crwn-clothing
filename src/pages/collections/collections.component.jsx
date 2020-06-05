@@ -8,6 +8,7 @@ import { connect } from 'react-redux';
  
 
 const CollectionPage = ({  collection }) => {
+    
 const  { title , items } = collection;
 
 return (
